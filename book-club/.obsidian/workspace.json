@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "0a926485d05d5149",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7f626173b9e23b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18d4df85f2cab06d",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Book Club Table.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Book Club Table"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e834b914c06d3ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "65e8c1a76b9a52f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c5630bc3cd659c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1cfac2abb5de8fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bbec7f345ed49dc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "826a58ae60ffda39",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d34f1abc9647f5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0028882fac35da43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/2023/Four Winds.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Four Winds"
+            }
+          },
+          {
+            "id": "5a54d387b1d1fdd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/2023/Four Winds.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Four Winds"
+            }
+          },
+          {
+            "id": "64bb3c923b910d29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0032779a5616f9b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/2023/Four Winds.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Four Winds"
+            }
+          },
+          {
+            "id": "8897b36c73f60ac3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "42cf02c2d17a2e81",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "vim-toggle:Toggle Vim Mode": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "18d4df85f2cab06d",
+  "lastOpenFiles": [
+    "Books/2019/The Wizard Knight.md",
+    "Books/2019/The Three-Body Problem.md",
+    "Books/2019/The Gap Into Conflict.md",
+    "Books/2019/The Forever War.md",
+    "Books/2019/The Bloodline Feud.md",
+    "Books/2019/Blackfish City.md",
+    "Book Club Table.base",
+    "Books/2025/City of Thieves.md",
+    "Books/2025/Waverly.md",
+    "Books/2025/Homegoing.md",
+    "Books/2025/A Conspiracy of Paper.md",
+    "Books/2025/Wolf Hall.md",
+    "Books/2025/King Rat.md",
+    "New York 2140.md",
+    "The Fifth Season.md",
+    "Books/2025/The Women.md",
+    "Books/2024/Giovanni's Room.md",
+    "Books/2024/Bartleby The Scrivener.md",
+    "Books/2024/The Alchemist.md",
+    "Books/2024/The Shawshank Redemption.md",
+    "Books/2024/The Postman Always Rings Twice.md",
+    "Books/2024/Vermillion Sands.md",
+    "Books/2024/Three Men in a Boat.md",
+    "Books/2024/His Master's Voice.md",
+    "Books/2023/Burmese Days.md",
+    "The Raven Tower.md",
+    "Untitled",
+    "Books/2025",
+    "Books/2024",
+    "Books/2023",
+    "Books/2022",
+    "Books/2021",
+    "Books/2020",
+    "Books/2019",
+    "Books/2018",
+    "Untitled.canvas"
+  ]
+}

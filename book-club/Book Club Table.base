@@ -1,0 +1,18 @@
+properties:
+  file.name:
+    displayName: title
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - note["year-read"] == 2019
+    order:
+      - file.name
+      - year-read
+    sort:
+      - property: year-read
+        direction: DESC
+    columnSize:
+      file.name: 230
+      note.year-read: 208
