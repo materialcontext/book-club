@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f626173b9e23b2",
+        "id": "ddd3a6418687adb6",
         "type": "tabs",
         "children": [
           {
-            "id": "18d4df85f2cab06d",
+            "id": "65dc2b6ad44cccf7",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -16,7 +16,7 @@
                 "file": "Book Club Table.base",
                 "viewName": "Table"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-layout-grid",
               "title": "Book Club Table"
             }
           }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "826a58ae60ffda39",
@@ -195,34 +196,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c5630bc3cd659c7",
+  "active": "65dc2b6ad44cccf7",
   "lastOpenFiles": [
-    "2019/The Wizard Knight.md",
-    "2019/The Three-Body Problem.md",
-    "2019/The Gap Into Conflict.md",
-    "2019/The Forever War.md",
-    "2019/The Bloodline Feud.md",
-    "2019/Blackfish City.md",
-    "Book Club Table.base",
-    "2025/City of Thieves.md",
-    "2025/Waverly.md",
-    "2025/Homegoing.md",
-    "2025/A Conspiracy of Paper.md",
-    "2025/Wolf Hall.md",
-    "2025/King Rat.md",
-    "New York 2140.md",
-    "The Fifth Season.md",
     "2025/The Women.md",
-    "2024/Giovanni's Room.md",
-    "2024/Bartleby The Scrivener.md",
-    "2024/The Alchemist.md",
-    "2024/The Shawshank Redemption.md",
-    "2024/The Postman Always Rings Twice.md",
-    "2024/Vermillion Sands.md",
-    "2024/Three Men in a Boat.md",
-    "2024/His Master's Voice.md",
-    "2023/Burmese Days.md",
-    "The Raven Tower.md",
+    "Book Club Table.base",
+    "2014/Stranger in a Strange Land.md",
+    "2014/The Stars My Destination.md",
+    "2014/Use of Weapons.md",
+    "2014/The Left Hand of Darkness.md",
+    "2014/The Diamond Age.md",
+    "2014/Hard-Boiled Wonderland and the End of the World.md",
+    "2014/Embassytown.md",
+    "2015/Where Late the Sweet Birds Sang.md",
+    "2015/The WindUp Girl.md",
+    "2015/The Wild Shore.md",
+    "2015/Slow River.md",
+    "2015/Black No More.md",
+    "2015/Ancillary Justice.md",
+    "2015/A Canticle for Leibowitz.md",
+    "2019/Blackfish City.md",
+    "2019/The Bloodline Feud.md",
+    "2019/The Forever War.md",
+    "2019/The Gap Into Conflict.md",
+    "2019/The Three-Body Problem.md",
+    "2019/The Wizard Knight.md",
+    "2020/Palace Walk.md",
+    "2020/Baghdad Without a Map.md",
+    "2020/1Q84.md",
+    "2021/The Omnivore's Dilemma.md",
+    "2021/The KLF.md",
     "Untitled",
     "2025",
     "2024",

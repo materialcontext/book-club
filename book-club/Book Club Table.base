@@ -2,17 +2,24 @@ properties:
   file.name:
     displayName: title
 views:
-  - type: table
+  - type: cards
     name: Table
     filters:
       and:
-        - note["year-read"] == 2019
+        - file.hasProperty("year-read")
     order:
       - file.name
       - year-read
+      - rating
     sort:
+      - property: rating
+        direction: DESC
       - property: year-read
         direction: DESC
+      - property: author
+        direction: ASC
     columnSize:
       file.name: 230
+      note.author: 214
       note.year-read: 208
+    cardSize: 190
