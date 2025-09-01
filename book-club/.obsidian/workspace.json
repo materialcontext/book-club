@@ -11,13 +11,14 @@
             "id": "65dc2b6ad44cccf7",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Book Club Table.base",
-                "viewName": "Table"
+                "file": "2025/The Women.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-layout-grid",
-              "title": "Book Club Table"
+              "icon": "lucide-file",
+              "title": "The Women"
             }
           }
         ]
@@ -198,8 +199,10 @@
   },
   "active": "65dc2b6ad44cccf7",
   "lastOpenFiles": [
-    "2025/The Women.md",
+    "Pasted image 20250901222013.png",
+    "Pasted image 20250901222010.png",
     "Book Club Table.base",
+    "2025/The Women.md",
     "2014/Stranger in a Strange Land.md",
     "2014/The Stars My Destination.md",
     "2014/Use of Weapons.md",
@@ -224,7 +227,6 @@
     "2020/Baghdad Without a Map.md",
     "2020/1Q84.md",
     "2021/The Omnivore's Dilemma.md",
-    "2021/The KLF.md",
     "Untitled",
     "2025",
     "2024",
