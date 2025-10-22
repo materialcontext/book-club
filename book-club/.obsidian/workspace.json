@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ddd3a6418687adb6",
+        "id": "04ee55b693ccd0c4",
         "type": "tabs",
         "children": [
           {
-            "id": "65dc2b6ad44cccf7",
+            "id": "ae377c20afdb15d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "2025/The Women.md",
-                "mode": "source",
-                "source": true
+                "file": "Book Club Table.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "The Women"
+              "icon": "lucide-layout-grid",
+              "title": "Book Club Table"
             }
           }
         ]
@@ -78,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "826a58ae60ffda39",
@@ -197,12 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65dc2b6ad44cccf7",
+  "active": "6c5630bc3cd659c7",
   "lastOpenFiles": [
     "Pasted image 20250901222013.png",
-    "Pasted image 20250901222010.png",
     "Book Club Table.base",
+    "2022/Children of Time.md",
     "2025/The Women.md",
+    "2025/King Rat.md",
+    "2025/City of Thieves.md",
+    "Pasted image 20250901222010.png",
     "2014/Stranger in a Strange Land.md",
     "2014/The Stars My Destination.md",
     "2014/Use of Weapons.md",
@@ -224,9 +225,6 @@
     "2019/The Three-Body Problem.md",
     "2019/The Wizard Knight.md",
     "2020/Palace Walk.md",
-    "2020/Baghdad Without a Map.md",
-    "2020/1Q84.md",
-    "2021/The Omnivore's Dilemma.md",
     "Untitled",
     "2025",
     "2024",

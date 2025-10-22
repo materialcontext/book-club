@@ -1,5 +1,5 @@
 ---
 author: James Clavell
 year-read: 2025
-rating: ★★★★
+rating: ★★
 ---
