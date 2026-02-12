@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "04ee55b693ccd0c4",
+        "id": "fc21702f033606cd",
         "type": "tabs",
         "children": [
           {
-            "id": "ae377c20afdb15d1",
+            "id": "4783503774db8e82",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Book Club Table.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Book Club Table"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -195,11 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42cf02c2d17a2e81",
+  "active": "6c5630bc3cd659c7",
   "lastOpenFiles": [
+    "2026",
+    "Book Club Table.base",
     "Pasted image 20250901222010.png",
     "Pasted image 20250901222013.png",
-    "Book Club Table.base",
     "2022/Children of Time.md",
     "2025/The Women.md",
     "2025/King Rat.md",
@@ -225,7 +223,6 @@
     "2019/The Three-Body Problem.md",
     "2019/The Wizard Knight.md",
     "2020/Palace Walk.md",
-    "Untitled",
     "2025",
     "2024",
     "2023",
