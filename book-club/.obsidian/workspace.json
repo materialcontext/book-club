@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fc21702f033606cd",
+        "id": "987cc5cf79e91f8a",
         "type": "tabs",
         "children": [
           {
-            "id": "4783503774db8e82",
+            "id": "04002ead7fa4c01b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Book Club Table.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Book Club Table"
             }
           }
         ]
@@ -192,17 +195,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c5630bc3cd659c7",
+  "active": "04002ead7fa4c01b",
   "lastOpenFiles": [
-    "2026",
+    "2014/Stranger in a Strange Land.md",
     "Book Club Table.base",
+    "2026/If On a Winter's Night a Traveler.md",
+    "2026/Dogsbody.md",
+    "2026/The Yiddish Policemen's Union.md",
+    "2026/The Eternal Moment.md",
+    "2026/The Children of Men.md",
+    "2025/City of Thieves.md",
+    "2026/Re Colonised Planet 5, Shikasta.md",
+    "2026/Gun, With Occasional Music.md",
+    "2025/Waverly.md",
+    "2025/A Conspiracy of Paper.md",
+    "Untitled",
+    "2026",
     "Pasted image 20250901222010.png",
     "Pasted image 20250901222013.png",
     "2022/Children of Time.md",
     "2025/The Women.md",
     "2025/King Rat.md",
-    "2025/City of Thieves.md",
-    "2014/Stranger in a Strange Land.md",
     "2014/The Stars My Destination.md",
     "2014/Use of Weapons.md",
     "2014/The Left Hand of Darkness.md",
@@ -214,15 +227,6 @@
     "2015/The Wild Shore.md",
     "2015/Slow River.md",
     "2015/Black No More.md",
-    "2015/Ancillary Justice.md",
-    "2015/A Canticle for Leibowitz.md",
-    "2019/Blackfish City.md",
-    "2019/The Bloodline Feud.md",
-    "2019/The Forever War.md",
-    "2019/The Gap Into Conflict.md",
-    "2019/The Three-Body Problem.md",
-    "2019/The Wizard Knight.md",
-    "2020/Palace Walk.md",
     "2025",
     "2024",
     "2023",
@@ -230,7 +234,6 @@
     "2021",
     "2020",
     "2019",
-    "Books/2018",
     "Untitled.canvas"
   ]
 }
