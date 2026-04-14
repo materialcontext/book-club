@@ -12,9 +12,9 @@ views:
       - year-read
       - rating
     sort:
-      - property: rating
-        direction: DESC
       - property: year-read
+        direction: ASC
+      - property: rating
         direction: DESC
       - property: author
         direction: ASC

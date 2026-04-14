@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "987cc5cf79e91f8a",
+        "id": "9ba9971b6698b4a0",
         "type": "tabs",
         "children": [
           {
-            "id": "04002ead7fa4c01b",
+            "id": "fcd54820781dc407",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04002ead7fa4c01b",
+  "active": "fcd54820781dc407",
   "lastOpenFiles": [
-    "2014/Stranger in a Strange Land.md",
     "Book Club Table.base",
+    "2014/Stranger in a Strange Land.md",
     "2026/If On a Winter's Night a Traveler.md",
     "2026/Dogsbody.md",
     "2026/The Yiddish Policemen's Union.md",
